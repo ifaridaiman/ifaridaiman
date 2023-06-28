@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ifaridaiman
 - 👀 I’m interested in development of UI/UX design and development. An API junkie.
-- 🌱 I’m currently learning Flutter and Laravel.
 - 📫 You can contact me thru instagram/twitter using my git username.
