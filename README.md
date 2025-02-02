@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ifaridaiman
-- 👀 I’m interested in development of UI/UX design and development. An API junkie.
-- 📫 You can contact me thru instagram/twitter using my git username.
+- 😇 I manage and develop software project
+- 😌 I do this for money, plase hire me
