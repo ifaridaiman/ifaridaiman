@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @ifaridaiman
-- 😇 I manage and develop software project
-- 😌 I do this for money, plase hire me
+Building website and mobile apps for my bold client. 
