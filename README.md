@@ -1,1 +1,1 @@
-Building website and mobile apps for my bold client. 
+Software Engineer with 6+ years building scalable web apps. Strong in Next.js, React, DDD, and cloud deployments. Experienced bridging business and engineering to deliver high-impact, maintainable solutions. 
